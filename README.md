@@ -1,6 +1,6 @@
-# WinSFTPClient
+# winSFTPClient
 
-**WinSFTPClient** is a simple Go-based SFTP client that allows you to upload files and directories to a remote server via SFTP. This tool supports connection to an SFTP server using username, password authentication, and allows recursive uploads of directories.
+**winSFTPClient** is a simple Go-based SFTP client that allows you to upload files and directories to a remote server via SFTP. This tool supports connection to an SFTP server using username, password authentication, and allows recursive uploads of directories.
 
 The code is open for modification, and you are free to customize it for your needs. Please read the instructions below to get started with the application.
 
@@ -13,7 +13,7 @@ The code is open for modification, and you are free to customize it for your nee
 
 ## Prerequisites
 
-To build and run **WinSFTPClient**, you need to have the following installed:
+To build and run **winSFTPClient**, you need to have the following installed:
 
 - Go (1.16 or higher)
 - Git (for cloning the repository)
@@ -23,13 +23,13 @@ To build and run **WinSFTPClient**, you need to have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/alptekinsunnetci/WinSFTPClient.git
+    git clone https://github.com/alptekinsunnetci/winSFTPClient.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd WinSFTPClient
+    cd winSFTPClient
     ```
 
 3. Install required Go packages:
@@ -46,7 +46,7 @@ To build and run **WinSFTPClient**, you need to have the following installed:
 
 ## Usage
 
-After building the application, you can run **WinSFTPClient** from the command line.
+After building the application, you can run **winSFTPClient** from the command line.
 
 ### Command Line Arguments:
 
